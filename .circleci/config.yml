@@ -9,6 +9,7 @@ workflows:
 # Name the  workflow "welcome"
   welcome:
     # Run the welcome/run job in its own container
-    run: echo 'hello world' #run the echo command
+    #run the echo command
+    run: echo 'hello world'
     jobs:
     welcome/run
