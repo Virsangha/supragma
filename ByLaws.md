@@ -8,106 +8,139 @@
 
 ## TABLE OF CONTENTS
 
-NAME ………………..…………………………………………………………………………….1
-Name ………….…………………………………………………………………………………….1
+NAME: ______________________________________________
 
-OFFICES………………………………………………………………………………………...1
-	Principal Office……………………………………………..1
-Other Offices…………………………………………………………………………..1
+NAME:_______________________________________________
+OFFICES:
+PRINCIPAL OFFICE:___________________________________
+OTHER OFFICES:______________________________________
+PURPOSES:
+GENERAL PURPOSES:___________________________________
+SPECIFIC PURPOSES:__________________________________
+SHAREHOLDING:________________________________________
+AUTHORIZED NUMBER OF SHARES:
+PREFERRED STOCK A:__________________________________
+PREFERRED STOCK B:__________________________________
+PAYMENT OF SHARES:__________________________________
+VESTING OF SHARES:__________________________________
+DIVIDEND:___________________________________________
+SECTION 4.7
+PRE-EMPTIVE RIGHT & RIGHT OF FIRST REFUSAL__________
+___________________________________________________
+SECTION 4.8
+REDEMPTION OF SHARES:_______________________________
+SECTION 4.9
+TRANSFER OF SHARES:_________________________________
+SECTION 4.10
+SHARE CERTIFICATES:_________________________________
+MEMBERS:____________________________________________
+MEMBERS:____________________________________________
+BOARD OF DIRECTORS__________________________________
+GENERAL CORPORATE POWERS:___________________________
+SPECIFIC POWERS:____________________________________
+AUTHORIZED NUMBER:___________________________________
+ELECTION, DESIGNATION, AND TERM OF OFFICE:
+_____________________________________________________
+EVENTS CAUSING VACANCY:______________________________
+RESIGNATION:_________________________________________
+FILLING VACANCIES:___________________________________
+OFFICERS:____________________________________________
+OFFICERS:____________________________________________
+ELECTION OF ADDITIONAL OFFICERS:
+_____________________________________________________
+REMOVAL OF OFFICERS:___________________________________
+RESIGNATION OF OFFICERS:________________________________
+RESPONSIBILITIES OF OFFICERS:___________________________
+________________________________________________________
+7.5.1
+CHIEF EXECUTIVE OFFICER:_________________________________
+7.5.2
+PRESIDENT:______________________________________________
+7.5.3
+CHEIF FINANCIAL OFFICER / TREASURER:_____________________
+7.5.3(A)
+BOOKS OF ACCOUNTS:_______________________________________
+7.5.3(B)
+FINANCIAL REPORTS:________________________________________
+7.5.3(C)
+DEPOSIT AND DISBURSEMENT OF MONEY AND VALUABLES:
+___________________________________________________________
+7.5.4
+CHIEF OPERATING OFFICER:___________________________________
+7.5.5	
+SECERETARY:________________________________________________
+7.5.5(a)
+ARTICLES & BYLAWS:__________________________________________
+7.5.6(b)
+MINUTE BOOK:________________________________________________
+7.5.5(c)
+NOTICES:____________________________________________________
+7.5.5(d)
+RECORDS:____________________________________________________
+7.5.5(e)
+SEAL AND OTHER DUTIES:_______________________________________
+COMPENSATION TO OFFICERS:____________________________________
+FISCAL YEAR:_________________________________________________
+FISCAL YEAR:_________________________________________________
+MEETINGS:____________________________________________________
+APPLICABILITY:_______________________________________________
+ANNUAL MEETING OF MEMBERS:____________________________________
+SPECIAL MEETING OF MEMBERS:__________________________________
+APPLICABILITY:________________________________________________
+ANNUAL MEETING OF MEMBERS:____________________________________
+SPECIAL MEETING OF MEMBERS:___________________________________
+REGULAR MEETINGS______________________________________________
+SPECIAL MEETINGS:_____________________________________________
+NOTICE OF MEETINGS:___________________________________________
+MANNER OF GIVING:_____________________________________________
+TIME REQUIREMENTS:____________________________________________
+9.5.3
+NOTICE CONTENTS:_______________________________________________
+9.5.4
+MEETINGS BY TELEPHONE OR SIMILAR COMMUNICATION EQUIPMENT:
+________________________________________________________________
+QUORUM FOR MEETINGS:____________________________________________
+ACTION WITHOUT MEETINGS:_______________________________________
+LIABITY OF DIRECTORS AND OFFICERS:_____________________________
+LIABILITY:_____________________________________________________
+INDEMNIFICATION OF OFFICERS, EMPLOYEES AND AGENTS:
+SECTION 11.1
+INDEMINIFICATION:______________________________________________
+SECTION 11.2  
+INDENIFICATION OF AGENTS:______________________________________
+RECORDS, REPORTS AND SEAL:
+MINUTE BOOK:___________________________________________________
+SECTION 12.2
+BOOKS AND RECORDS OF ACCOUNT:__________________________________
+SECTION 12.3
+ARTICLES OF INCORPORATION & BYLAWS:____________________________
+SECTION 12.4
+ANNUAL REPORT AND STATEMENT OF CERTAIN TRANSACTIONS:
+________________________________________________________________
+SECTION 12.5
+MEMBER'S AND DIRECTOR'S RIGHT OF INSPECTION:
+________________________________________________________________
+SECTION 12.6
+SEAL:___________________________________________________________
+ARTICLE 13:
+EXECUTION OF INSTRUMENTS, DEPOSITS AND FUNDS 
+SECTION 13.1
+EXECUTION OF INSTRUMENT:________________________________________
+SECTION 13.2 
+CHECKS AND NOTES:_______________________________________________
+SECTION 13.3
+DEPOSITS:_______________________________________________________
+ARTICLE 14  
+AMENDMENTS:_____________________________________________________
+SECTION 14.1
+AMENDMENT BY BOARD:_____________________________________________
+ARTICLE 15  	
+INSURANCE:______________________________________________________
+SECTION 15.1
+INSURANCE:_______________________________________________________
+CERTIFICATE OF SECERETARY:
+_________________________________________________________________
 
-PURPOSES……………………………………………………………………………......1
-General Purposes……………………………………………………………....1
-Specific Purpose…………………………………………………………………….1
-
-SHAREHOLDING…………………………………………………………………………….1-3
-Authorized Number of Shares…………………………………………1
-Preferred Stock A……………………………………………………………………1
-Preferred Stock B………………………………………………………………….2
-Payment for Shares……………………………………………………………….2
-Vesting of Shares………………………………………………………………….2
-Dividend………………………………………………………………………………………..2
-Section 4.7	Pre-emptive Right & Right of First Refusal………………………………………………………2
-Section 4.8	Redemption of Shares……………….3
-Section 4.9	Transfer of Shares………………………3
-Section 4.10	Share Certificates…………………….3
-
-MEMBERS……..………………………………………………………………………………..4
-Members….……………………………………………………………………………………….4
-
-BOARD OF DIRECTORS………………………………………………………………4-5
-General Corporate Powers……………………………………………….4
-Specific Powers……………………………………………………………………….4
-Authorized Number ……………………………………………………………….4
-Election, Designation, and Term of Office….4
-Events Causing Vacancy…………………………………………………….5
-Resignation………………………………………………………………………………….5
-Filling Vacancies………………………………………………………………….5
-
-OFFICERS…………………………..…………………………………………………………5-8
-	Officers ………………………………………………………………….5
-Election of Additional Officers………………………………6
-Removal of Officers…………………………………………………………….6
-Resignation of Officers………………………………………………….6
-Responsibilities of Officers…………………………………….6
-7.5.1            Chief Executive Officer………6
-         7.5.2            President………………….6
-         7.5.3            Chief Financial Officer / Treasurer……….………………….......6
-                 7.5.3(a) Books of Account…6
-                 7.5.3(b) Financial Reports…………………………………………………………………………..………………7
-                 7.5.3(c) Deposit and Disbursement of Money and Valuables….....7
-
-7.5.4	Chief Operating Officer………………………………7            
-7.5.5	Secretary……..…………………………………………………………7
-                        7.5.5 (a) Articles & Bylaws…………………………………………………………………………7
-                        7.5.5 (b) Minute Book……………………………………………..…..............7
-                        7.5.5 (c) Notices…………………………………………………………………………..……………...7
-                        7.5.5 (d) Records…………………………………………………………………………….……………...8
-                        7.5.5 (e) Seal and other Duties……………………………………….………………..8
- 
-Compensation to Officers…………………………………………………8
-
-FISCAL YEAR……………………………………………………………………….…...8
-Fiscal Year…………………………………………………………………………….……8
-			
-MEETINGS………………………………………………...…………………………………8-11
-Applicability.……………………………………………………………………………8
-Annual Meeting of Members………………………………………………8
-Special Meetings of Members…………………………………………9
-Regular Meetings……………………………………………………………...…10
-Special Meetings………………………………………………………………………10
-Notice of Meetings…………………………………………………………………10
-Manner of Giving………………………………………………………………….…10
-Time Requirements……………………………………………………………….…11
-	9.5.3       	Notice Contents…………11
-9.5.4            Meetings by Telephone or Similar Communication Equipment……………….11
-Quorum for Meetings………………………………………………………………11
-Action without Meeting………………………………………………………11
-Majority Vote / Quorum Vote…………………………………………11
-
-LIABITY OF DIRECTORS AND OFFICERS…………………………11
-Liability…………………………………………………………………………………………11
-
-INDEMNIFICATION OF OFFICERS, EMPLOYEES AND AGENTS……………………………………………………………………..…...12
-Section 11.1        Indemnification……………………12
-Section 11.2       Indemnification of Agents…………………………………………………………………………………………………12
-
-RECORDS, REPORTS AND SEAL………………………………………………12-13 
-Minute Book……………………………………………………………………………………12
-Section 12.2        Books and Records of Account………………………………………………………….…………………...12
-Section 12.3        Articles of Incorporation & Bylaws………………………………...………..………....12
-Section 12.4        Annual Report and Statement of Certain Transactions………………....12
-Section 12.5        Member’s and Director’s Right of Inspection…………………………………………..13 
-Section 12.6        Seal…………………………………………………13
-
-ARTICLE 13 	EXECUTION OF INSTRUMENTS, DEPOSITS AND FUNDS ……………………………………………………13
-Section 13.1        Execution of instrument………………………………………………………………………………………………….13
-Section 13.2        Checks and Notes………………..……………………………………………………………………………………………..13
-Section 13.3        Deposits………………………..…………………………………………………………………………………………………………….13
-
-ARTICLE 14  	AMENDMENTS……………………………………………………………………………………………………………………………………………….14
-Section 14.1        Amendment by Board………………………………………………………………………………………………………….……14
-
-ARTICLE 15  	INSURANCE……………………………………………………………………………………………………………………………………………………14
 Section 15.1        Insurance………………………………………….…………………………….……………………………………………………………14
 
 CERTIFICATE OF SECRETARY………………………………………………………………………………………………………………………………………………………14
